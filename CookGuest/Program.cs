@@ -10,6 +10,7 @@
         static void c()
         {
             Console.WriteLine("caca2");
+            Console.WriteLine("my new branch");
         }
 
     }
