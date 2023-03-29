@@ -11,6 +11,6 @@
         {
             Console.WriteLine("caca2");
         }
-        static void m1() { Console.WriteLine("ttt"); }
+        static void m1() { Console.WriteLine("tttff"); }
     }
 }
