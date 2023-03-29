@@ -9,7 +9,8 @@
 
         static void c()
         {
-            Console.WriteLine("caca");
+            Console.WriteLine("caca2");
         }
+
     }
 }
